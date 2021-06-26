@@ -1,0 +1,14 @@
+.container-fluid{
+	padding-left:0px;
+	padding-right: 0px; 
+}
+#rowForm {
+	padding-top: 100px;
+	padding-left: 100px;
+	padding-right: 50px;
+	padding-bottom: 50px;
+}
+
+.form-label{
+		padding-top: 10px;
+}
